@@ -1,0 +1,12 @@
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/src/main/java/br/ufscar/dc/compiladores/lasemantico/Principal.java
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/src/main/java/br/ufscar/dc/compiladores/lasemantico/TabelaDeSimbolos.java
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/src/main/java/br/ufscar/dc/compiladores/lasemantico/LaSemantico.java
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/lasemantico/LABaseVisitor.java
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/lasemantico/LAVisitor.java
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/src/main/java/br/ufscar/dc/compiladores/lasemantico/Escopos.java
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/src/main/java/br/ufscar/dc/compiladores/lasemantico/MyCustomErrorListener.java
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/lasemantico/LABaseListener.java
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/lasemantico/LALexer.java
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/src/main/java/br/ufscar/dc/compiladores/lasemantico/LaSemanticoUtils.java
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/lasemantico/LAListener.java
+/Users/vitorkasai/git/UFSCar/Compiladores/t4-compiladores/LaSemantico/target/generated-sources/antlr4/br/ufscar/dc/compiladores/lasemantico/LAParser.java
